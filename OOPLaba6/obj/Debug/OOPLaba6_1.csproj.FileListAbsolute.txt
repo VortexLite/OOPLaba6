@@ -1,0 +1,8 @@
+C:\Users\vorte\source\repos\OOPLaba6\OOPLaba6\bin\Debug\OOPLaba6.exe.config
+C:\Users\vorte\source\repos\OOPLaba6\OOPLaba6\bin\Debug\OOPLaba6.exe
+C:\Users\vorte\source\repos\OOPLaba6\OOPLaba6\bin\Debug\OOPLaba6.pdb
+C:\Users\vorte\source\repos\OOPLaba6\OOPLaba6\obj\Debug\OOPLaba6_1.csproj.AssemblyReference.cache
+C:\Users\vorte\source\repos\OOPLaba6\OOPLaba6\obj\Debug\OOPLaba6_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vorte\source\repos\OOPLaba6\OOPLaba6\obj\Debug\OOPLaba6_1.csproj.CoreCompileInputs.cache
+C:\Users\vorte\source\repos\OOPLaba6\OOPLaba6\obj\Debug\OOPLaba6.exe
+C:\Users\vorte\source\repos\OOPLaba6\OOPLaba6\obj\Debug\OOPLaba6.pdb
